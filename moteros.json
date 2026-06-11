@@ -1,7 +1,7 @@
 [
   {
     "id": "m1",
-    "name": "Carlos",
+    "name": "Carlos Miranda",
     "city": "Cali",
     "zone": "San Fernando / El Lido",
     "schedule": "4:00 am – 1:00 pm",
@@ -24,6 +24,16 @@
     "zone": "Centro / Las Mercedes",
     "schedule": "4:30 am – 12:00 pm",
     "whatsapp": "573007778899",
+    "emoji": "🏍️"
+  },
+  
+  {
+    "id": "m4",
+    "name": "Andres Fernando",
+    "city": "Armenia",
+    "zone": "El Aguacatal / El Lido",
+    "schedule": "8:00 am – 4:00 pm",
+    "whatsapp": "573009993399",
     "emoji": "🏍️"
   }
 ]
