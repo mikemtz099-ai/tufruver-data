@@ -1,0 +1,29 @@
+[
+  {
+    "id": "m1",
+    "name": "Carlos",
+    "city": "Cali",
+    "zone": "San Fernando / El Lido",
+    "schedule": "4:00 am – 1:00 pm",
+    "whatsapp": "573001112233",
+    "emoji": "🏍️"
+  },
+  {
+    "id": "m2",
+    "name": "Doña Marta",
+    "city": "Cali",
+    "zone": "Ciudad Jardín",
+    "schedule": "5:00 am – 2:00 pm",
+    "whatsapp": "573004445566",
+    "emoji": "🛵"
+  },
+  {
+    "id": "m3",
+    "name": "Jorge",
+    "city": "Palmira",
+    "zone": "Centro / Las Mercedes",
+    "schedule": "4:30 am – 12:00 pm",
+    "whatsapp": "573007778899",
+    "emoji": "🏍️"
+  }
+]
